@@ -1,0 +1,6 @@
+book_id,title,author,genre,published_date,price,in_stock
+1,The Hobbit,J.R.R. Tolkien,Fantasy,1937-09-21,15.99,True
+2,1984,George Orwell,Dystopian,1949-06-08,12.50,True
+3,To Kill a Mockingbird,Harper Lee,Fiction,1960-07-11,10.75,False
+4,The Great Gatsby,F. Scott Fitzgerald,Classic,1925-04-10,8.99,True
+5,Python Crash Course,Eric Matthes,Programming,2015-11-01,29.95,True

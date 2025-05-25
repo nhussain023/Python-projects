@@ -1,0 +1,5 @@
+trade_id,trade_date,symbol,quantity,price,trade_type,counterparty,is_settled
+101,2024-11-21,AAPL,100,189.25,BUY,BrokerX,True
+102,2024-11-22,GOOG,50,2830.10,SELL,BrokerY,False
+103,2024-11-23,MSFT,75,332.45,BUY,BrokerZ,True
+104,2024-11-24,TSLA,30,1090.00,SELL,BrokerX,False
